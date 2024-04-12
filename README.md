@@ -1,2 +1,2 @@
 # Seq2SeqAt
-基于Seq2Seq-Attention的手写数学公式识别
+基于$Seq2Seq-Attention$的手写数学公式识别
